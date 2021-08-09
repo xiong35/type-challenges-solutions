@@ -42,3 +42,18 @@ type MyPick<T, Ks extends keyof T> = {
 (从原始对象上得到这个 Key(`K`)对应的类型, 此操作与在 JS 对象上根据键获得值类型, 只不过是根据键获得值的**类型**)
 
 最后得到的这个类型即为从原类型上挑选出需要的 keys 的类型了
+
+来点伪代码可能好理解一些
+
+```ts
+function MyPick(T, Ks) {
+  if(Ks is not subset of (keyof T)) throw new Error() // Ks extends keyof T
+
+  const returnType = {};
+  for (let K of Ks) { // [K in Ks]
+    typeOf(returnType[K]) = typeOf(T[K]); //[K in Ks]: T[K];
+  }
+
+  return returnType
+}
+```
