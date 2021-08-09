@@ -45,8 +45,8 @@ type MyPick<T, Ks extends keyof T> = {
 
 来点伪代码可能好理解一些
 
-```ts
-function MyPick(T, Ks) {
+```js
+function MyPick(T, Ks) { // Ks 是联合类型, 可看作js中的 Set 来遍历
   if(Ks is not subset of (keyof T)) throw new Error() // Ks extends keyof T
 
   const returnType = {};
