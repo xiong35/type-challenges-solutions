@@ -1,11 +1,13 @@
 {
 	"init md": {
 		"scope": "md,markdown",
-		"prefix": "init,init#",
+		"prefix": "i,init,init#",
 		"body": [
 			"# ${TM_DIRECTORY/.*\\\\(\\d*)-(\\w*)-\\w*/$1 $2/}",
 			"",
 			"## 题目",
+			"",
+			"$0",
 			"",
 			"## 答案",
 			"",
@@ -16,13 +18,13 @@
 	},
 	"init ts": {
 		"scope": "typescript",
-		"prefix": "init,init#",
+		"prefix": "i,init,init#",
 		"body": [
 			"namespace T${TM_DIRECTORY/.*\\\\(\\d*).*/$1/} {",
 			"  /* 答案 */",
-			"  $0",
-			"  /* 测试 */",
 			"",
+			"  /* 测试 */",
+			"  $0",
 			"}"
 		],
 		"description": "init markdown solution"
