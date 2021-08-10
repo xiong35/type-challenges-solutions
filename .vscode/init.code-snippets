@@ -1,0 +1,30 @@
+{
+	"init md": {
+		"scope": "md,markdown",
+		"prefix": "init,init#",
+		"body": [
+			"# ${TM_DIRECTORY/.*\\\\(\\d*)-(\\w*)-\\w*/$1 $2/}",
+			"",
+			"## 题目",
+			"",
+			"## 答案",
+			"",
+			"## 分析",
+			""
+		],
+		"description": "init markdown solution"
+	},
+	"init ts": {
+		"scope": "typescript",
+		"prefix": "init,init#",
+		"body": [
+			"namespace T${TM_DIRECTORY/.*\\\\(\\d*).*/$1/} {",
+			"  /* 答案 */",
+			"  $0",
+			"  /* 测试 */",
+			"",
+			"}"
+		],
+		"description": "init markdown solution"
+	}
+}
