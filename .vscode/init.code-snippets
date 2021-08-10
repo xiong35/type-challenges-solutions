@@ -1,7 +1,7 @@
 {
 	"init md": {
 		"scope": "md,markdown",
-		"prefix": "i,init,init#",
+		"prefix": "i#,init,init#",
 		"body": [
 			"# ${TM_DIRECTORY/.*\\\\(\\d*)-(\\w*)-\\w*/$1 $2/}",
 			"",
@@ -18,7 +18,7 @@
 	},
 	"init ts": {
 		"scope": "typescript",
-		"prefix": "i,init,init#",
+		"prefix": "i#,init,init#",
 		"body": [
 			"namespace T${TM_DIRECTORY/.*\\\\(\\d*).*/$1/} {",
 			"  /* 答案 */",
