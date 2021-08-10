@@ -1,4 +1,4 @@
-# 1 Hellow World
+# 1 Hello World
 
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/13-warm-hello-world/README.zh-CN.md)
 
