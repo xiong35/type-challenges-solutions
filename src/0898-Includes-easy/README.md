@@ -1,6 +1,6 @@
 # 0898 Includes
 
-## 题目
+## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/898-easy-includes/README.md)
 
 在类型系统中实现 JS 中的`Array.includes`函数. `Includes`类接受两个泛型参数, 返回值应为`true`或者`false`
 
