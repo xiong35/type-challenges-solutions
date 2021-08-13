@@ -63,3 +63,4 @@
 - [15 last of array, 中等](src/0015-LastOfArray-medium)
 - [16 pop, 中等](src/0016-Pop-medium)
 - [20 promise all, 中等](src/0020-PromiseAll-medium)
+- [62 type lookup, 中等](src/0062-TypeLookup-medium)
