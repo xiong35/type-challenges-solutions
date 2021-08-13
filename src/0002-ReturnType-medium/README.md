@@ -1,6 +1,6 @@
 # 0002 ReturnType
 
-## 题目
+## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/2-medium-return-type/README.zh-CN.md)
 
 实现内置的`ReturnType<T>`类, 该类接受一个函数类型作为类型参数, 返回该函数的返回值类型
 

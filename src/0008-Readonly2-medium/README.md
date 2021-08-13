@@ -1,6 +1,6 @@
 # 0008 Readonly2
 
-## 题目
+## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/8-medium-readonly-2/README.zh-CN.md)
 
 实现一个通用`MyReadonly2<T, K>`，它带有两种类型的参数`T`和`K`。
 

@@ -1,6 +1,6 @@
 # 0009 DeepReadonly
 
-## 题目
+## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/9-medium-deep-readonly/README.zh-CN.md)
 
 实现一个通用的`DeepReadonly<T>`，它将对象的每个参数及其子对象递归地设为只读。
 

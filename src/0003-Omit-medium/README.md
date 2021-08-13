@@ -1,6 +1,6 @@
 # 0003 Omit
 
-## 题目
+## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/3-medium-omit/README.zh-CN.md)
 
 实现内置的`Omit<T, K>`类, `Omit`会创建一个省略`K`中字段的`T`对象类型。
 
