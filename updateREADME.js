@@ -2,12 +2,12 @@ const fs = require("fs");
 
 // 预定义变量
 const title = "## 题目速览 🗺";
-const EN2CH = {
-  easy: "简单",
-  medium: "中等",
-  hard: "困难",
-  extrem: "地狱",
-};
+const EN2CH = [
+  { en: "easy", cn: "简单" },
+  { en: "medium", cn: "中等" },
+  { en: "hard", cn: "困难" },
+  { en: "extrem", cn: "地狱" },
+];
 
 // 读取原文件
 const READMEContent = fs.readFileSync("README.md").toString();
@@ -21,18 +21,25 @@ function cammel2Words(str) {
     index ? " " + c.toLowerCase() : c.toLowerCase()
   );
 }
-
-answerDirNames.forEach((name) => {
-  const linkContent = name.replace(
-    /^0*(\d*)-(\w+)-(\w+)$/,
-    (_match, id, name, lv) => {
-      console.log(id, name, lv);
-      return `${id} ${cammel2Words(name)} ${EN2CH[lv]}`;
-    }
-  );
-
-  newContent += `- [${linkContent}](src/${name})\n`;
-});
+const reg = /^0*(\d*)-(\w+)-(\w+)$/;
+answerDirNames
+  .map((fullName) => {
+    // 提取出需要的信息
+    const [_match, id, name, lv] = reg.exec(fullName);
+    return {
+      name,
+      fullName,
+      id,
+      level: EN2CH.findIndex((item) => item.en === lv),
+    };
+  })
+  .sort((a, b) => a.level - b.level) // 按难度升序排列
+  .forEach((i) => {
+    // 加入文末
+    newContent += `- [${i.id} ${cammel2Words(i.name)}, ${
+      EN2CH[i.level].cn
+    }](src/${i.fullName})\n`;
+  });
 
 // 执行写入操作
 console.log("- 开始写入");
