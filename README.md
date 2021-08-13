@@ -62,3 +62,4 @@
 - [12 chainable options, 中等](src/0012-ChainableOptions-medium)
 - [15 last of array, 中等](src/0015-LastOfArray-medium)
 - [16 pop, 中等](src/0016-Pop-medium)
+- [20 promise all, 中等](src/0020-PromiseAll-medium)
