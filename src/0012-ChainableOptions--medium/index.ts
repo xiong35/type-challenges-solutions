@@ -26,8 +26,3 @@ namespace T0012 {
     };
   }
 }
-
-type Chainable<R = {}> = {
-  option(key: string | number | symbol, value: any): Chainable;
-  get(): R;
-};
