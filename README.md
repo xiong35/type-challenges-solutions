@@ -68,3 +68,4 @@
 - [108 trim, 中等](src/0108-Trim-medium)
 - [110 capitalize, 中等](src/0110-Capitalize-medium)
 - [116 replace, 中等](src/0116-Replace-medium)
+- [119 replace all, 中等](src/0119-ReplaceAll-medium)
