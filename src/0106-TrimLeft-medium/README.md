@@ -1,4 +1,4 @@
-# 0106 TrimLeft
+# 0106 Trim Left
 
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/106-medium-trimleft/README.md)
 
