@@ -65,3 +65,4 @@
 - [20 promise all, 中等](src/0020-PromiseAll-medium)
 - [62 type lookup, 中等](src/0062-TypeLookup-medium)
 - [106 trim left, 中等](src/0106-TrimLeft-medium)
+- [108 trim, 中等](src/0108-Trim-medium)
