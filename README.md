@@ -70,3 +70,4 @@
 - [116 replace, 中等](src/0116-Replace-medium)
 - [119 replace all, 中等](src/0119-ReplaceAll-medium)
 - [191 append argument, 中等](src/0191-AppendArgument-medium)
+- [296 permutation, 中等](src/0296-Permutation-medium)
