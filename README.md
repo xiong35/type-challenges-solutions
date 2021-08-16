@@ -80,3 +80,4 @@
 - [610 camel case, 中等](src/0610-CamelCase-medium)
 - [612 kebab case, 中等](src/0612-KebabCase-medium)
 - [645 diff, 中等](src/0645-Diff-medium)
+- [949 any of, 中等](src/0949-AnyOf-medium)
