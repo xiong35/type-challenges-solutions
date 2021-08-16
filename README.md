@@ -76,3 +76,4 @@
 - [527 append to object, 中等](src/0527-AppendToObject-medium)
 - [529 absolute, 中等](src/0529-Absolute-medium)
 - [531 string to union, 中等](src/0531-StringToUnion-medium)
+- [599 merge, 中等](src/0599-Merge-medium)
