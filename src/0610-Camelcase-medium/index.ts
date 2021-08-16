@@ -1,9 +1,9 @@
 namespace T0610 {
   /* 答案 */
-  type Camelcase<S extends string> = S extends `${infer L}-${infer R}`
-    ? `${Capitalize<L>}${Camelcase<R>}`
+  type CamelCase<S extends string> = S extends `${infer L}-${infer R}`
+    ? `${Capitalize<L>}${CamelCase<R>}`
     : Capitalize<S>;
 
   /* 测试 */
-  type C = Camelcase<"for-bar-baz">; // expected to be "forBarBaz"
+  type C = CamelCase<"for-bar-baz">; // expected to be "forBarBaz"
 }
