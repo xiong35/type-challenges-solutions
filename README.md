@@ -72,3 +72,4 @@
 - [191 append argument, 中等](src/0191-AppendArgument-medium)
 - [296 permutation, 中等](src/0296-Permutation-medium)
 - [298 length of string, 中等](src/0298-LengthOfString-medium)
+- [459 flatten, 中等](src/0459-flatten-medium)
