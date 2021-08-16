@@ -79,3 +79,4 @@
 - [599 merge, 中等](src/0599-Merge-medium)
 - [610 camel case, 中等](src/0610-CamelCase-medium)
 - [612 kebab case, 中等](src/0612-KebabCase-medium)
+- [645 diff, 中等](src/0645-Diff-medium)
