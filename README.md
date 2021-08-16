@@ -75,3 +75,4 @@
 - [459 flatten, 中等](src/0459-flatten-medium)
 - [527 append to object, 中等](src/0527-AppendToObject-medium)
 - [529 absolute, 中等](src/0529-Absolute-medium)
+- [531 string to union, 中等](src/0531-StringToUnion-medium)
