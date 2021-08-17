@@ -1,4 +1,4 @@
-# 0459 flatten
+# 0459 Flatten
 
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/459-medium-flatten/README.md)
 
