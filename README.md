@@ -83,3 +83,4 @@
 - [949 any of, 中等](src/0949-AnyOf-medium)
 - [1042 is never, 中等](src/1042-IsNever-medium)
 - [1097 is union, 中等](src/1097-IsUnion-medium)
+- [1130 replace keys, 中等](src/1130-ReplaceKeys-medium)
