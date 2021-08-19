@@ -85,3 +85,4 @@
 - [1097 is union, 中等](src/1097-IsUnion-medium)
 - [1130 replace keys, 中等](src/1130-ReplaceKeys-medium)
 - [1367 remove index signature, 中等](src/1367-RemoveIndexSignature-medium)
+- [1978 percentage parser, 中等](src/1978-PercentageParser-medium)
