@@ -84,3 +84,4 @@
 - [1042 is never, 中等](src/1042-IsNever-medium)
 - [1097 is union, 中等](src/1097-IsUnion-medium)
 - [1130 replace keys, 中等](src/1130-ReplaceKeys-medium)
+- [1367 remove index signature, 中等](src/1367-RemoveIndexSignature-medium)
