@@ -1,5 +1,7 @@
 # 0110 Capitalize
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/110-medium-capitalize/README.md)
 
 实现内置类`Capitalize<T>`, 该类接受一个字符串类型作为参数, 返回的类型将这个串的首字母变成大写, 其他不变

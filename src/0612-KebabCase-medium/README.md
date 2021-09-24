@@ -1,5 +1,7 @@
 # 0612 Kebab Case
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/612-medium-kebabcase/README.md)
 
 实现`KebabCase`类, 接收一个字符串类型, 返回这个类型的 Kebab Case 表示(单词均为小写, 之间以`"-"`连接)

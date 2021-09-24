@@ -1,5 +1,7 @@
 # 0106 Trim Left
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/106-medium-trimleft/README.md)
 
 实现`TrimLeft<T>`类, 该类型接受一个`string`类星作为参数, 返回将这个类型左侧的空格去掉后的类型

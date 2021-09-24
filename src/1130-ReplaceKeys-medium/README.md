@@ -1,5 +1,7 @@
 # 1130 Replace Keys
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/1130-medium-replacekeys/README.md)
 
 Implement a type ReplaceKeys, that replace keys in union types, if some type has not this key, just skip replacing, A type takes three arguments.

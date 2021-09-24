@@ -1,5 +1,7 @@
 # 1042 Is Never
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/1042-medium-isnever/README.md)
 
 实现`IsNever`类, 当且仅当传入`never`时返回 true, 其他时候返回 false

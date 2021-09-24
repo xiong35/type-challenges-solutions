@@ -1,5 +1,7 @@
 # 0533 Concat
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/533-easy-concat/README.md)
 
 在类型系统中实现 JavaScript `Array.concat` 函数.  

@@ -1,5 +1,7 @@
 # 0296 Permutation
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/296-medium-permutation/README.md)
 
 Implement permutation type that transforms union types into the array that includes permutations of unions.

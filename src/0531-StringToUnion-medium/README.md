@@ -1,5 +1,7 @@
 # 0531 String To Union
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/531-medium-string-to-union/README.md)
 
 实现`StringToUnion`类, 该类接受一个字符串作为类型参数, 返回此串中字符的联合

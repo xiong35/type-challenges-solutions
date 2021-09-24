@@ -1,5 +1,7 @@
 # 0268 If
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/268-easy-if/README.md)
 
 实现一个工具类`If`, 它接受三个泛型参数:

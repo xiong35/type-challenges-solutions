@@ -1,5 +1,7 @@
 # 2070 Drop Char
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/2070-medium-drop-char/README.md)
 
 去除给定字符串中的指定字符

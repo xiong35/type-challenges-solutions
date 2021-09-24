@@ -1,5 +1,7 @@
 # 0191 AppendArgument
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/191-medium-append-argument/README.ja.md)
 
 实现一个范型 `AppendArgument<Fn, A>`，对于给定的函数类型 `Fn`，以及一个任意类型 `A`，返回一个新的函数 `G`。

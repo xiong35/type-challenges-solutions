@@ -1,5 +1,7 @@
 # 1367 Remove Index Signature
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/1367-medium-remove-index-signature/README.md)
 
 实现`RemoveIndexSignature<T>`类, 将给定对象类型的索引 , 去除对象的 [index signature](https://basarat.gitbook.io/typescript/type-system/index-signatures) 属性

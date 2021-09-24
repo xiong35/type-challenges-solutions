@@ -1,5 +1,7 @@
 # 7 Readonly
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/7-easy-readonly/README.zh-CN.md)
 
 实现内置的`Readonly<T>`泛型.  

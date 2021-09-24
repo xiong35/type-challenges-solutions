@@ -1,5 +1,7 @@
 # 1097 Is Union
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/1097-medium-isunion/README.md)
 
 实现`IsUnion`类, 当传入参数是联合类型时返回 true, 否则返回 false

@@ -1,5 +1,7 @@
 # 0527 Append To Object
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/527-medium-append-to-object/README.md)
 
 实现一个类, 能将一个新的字段插入给定的类型中, 并返回之

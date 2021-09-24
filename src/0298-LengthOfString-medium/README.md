@@ -1,5 +1,7 @@
 # 0298 Length Of String
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/298-medium-length-of-string/README.md)
 
 像 JS 中的`String.length`一样, 计算一个字符串类型字面量的长度

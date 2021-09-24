@@ -1,5 +1,7 @@
 # 11 Tuple To Object
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/11-easy-tuple-to-object/README.zh-CN.md)
 
 给定数组，转换为对象类型，键/值必须在给定数组中

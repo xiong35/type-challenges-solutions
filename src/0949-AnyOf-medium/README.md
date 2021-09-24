@@ -1,5 +1,7 @@
 # 0949 Any Of
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/949-medium-anyof/README.md)
 
 在类型系统中实现类似 Python 中`any`函数的功能.  

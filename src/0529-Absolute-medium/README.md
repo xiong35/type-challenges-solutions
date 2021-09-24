@@ -1,5 +1,7 @@
 # 0529 Absolute
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/529-medium-absolute/README.md)
 
 实现一个`Absolute`类, 接受一个数字类型作为参数, 返回其绝对值的`string`表示对应的类型

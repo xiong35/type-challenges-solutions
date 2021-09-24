@@ -1,5 +1,7 @@
 # 14 First Of Array
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/14-easy-first/README.zh-CN.md)
 
 实现一个通用类`First<T>`，它接受一个数组 T 并返回它的第一个元素的类型。

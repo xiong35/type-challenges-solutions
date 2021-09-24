@@ -1,5 +1,7 @@
 # 0645 Diff
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/645-medium-diff/README.md)
 
 实现`Diff`类, 接受两个类型作为参数, 返回二者不同名的属性的集合

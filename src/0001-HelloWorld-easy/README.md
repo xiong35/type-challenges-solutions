@@ -1,5 +1,7 @@
 # 1 Hello World
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/13-warm-hello-world/README.zh-CN.md)
 
 Hello, World!

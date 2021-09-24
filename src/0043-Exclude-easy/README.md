@@ -1,5 +1,7 @@
 # 43 Exclude
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/43-easy-exclude/README.zh-CN.md)
 
 实现内置的`Exclude`类

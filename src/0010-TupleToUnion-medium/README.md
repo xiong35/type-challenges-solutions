@@ -1,5 +1,7 @@
 # 0010 TupleToUnion
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/10-medium-tuple-to-union/README.zh-CN.md)
 
 实现一个通用类`TupleToUnion<T>`, 该类将一个元组转化成其中值的联合类型

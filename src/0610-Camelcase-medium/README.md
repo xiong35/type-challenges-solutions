@@ -1,5 +1,7 @@
 # 0610 CamelCase
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/610-medium-camelcase/README.md)
 
 编写一个`CamelCase`类, 接受一个字符串作为参数, 返回其驼峰表示的形式

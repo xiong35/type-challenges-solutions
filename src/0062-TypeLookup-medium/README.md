@@ -1,5 +1,7 @@
 # 0062 Type Lookup
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/62-medium-type-lookup/README.zh-CN.md)
 
 有时，您可能希望根据其属性在并集中查找类型。

@@ -1,5 +1,7 @@
 # 0015 Last Of Array
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/15-medium-last/README.zh-CN.md)
 
 实现一个通用类`Last<T>`，它接受一个数组`T`并返回其最后一个元素的类型。

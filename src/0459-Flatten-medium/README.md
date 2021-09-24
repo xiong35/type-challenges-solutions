@@ -1,5 +1,7 @@
 # 0459 Flatten
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/459-medium-flatten/README.md)
 
 实现`Flatten`类, 接受一个多维数组作为参数, 将其展开成一维并返回

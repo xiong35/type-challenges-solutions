@@ -1,5 +1,7 @@
 # 189 Awaited
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/189-easy-awaited/README.md)
 
 如果我们有一个被包装的类型, 例如`Promise`, 我们如何获得这个包装类型内部的类型呢?  

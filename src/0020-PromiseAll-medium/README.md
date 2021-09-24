@@ -1,5 +1,7 @@
 # 0020 PromiseAll
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/20-medium-promise-all/README.zh-CN.md)
 
 实现函数`PromiseAll`，它接受 PromiseLike 对象数组，返回值应为`Promise<T>`，其中`T`是 resolve 的结果数组。

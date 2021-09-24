@@ -1,5 +1,7 @@
 # 4 Pick
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/4-easy-pick/README.zh-CN.md)
 
 不使用内置的`Pick<T, K>`泛型, 通过从 T 中选择属性 K 来构造类型

@@ -1,5 +1,7 @@
 # 0016 Pop-medium
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/16-medium-pop/README.zh-CN.md)
 
 实现一个通用类`Pop<T>`，它接受一个数组 T 并返回一个没有最后一个元素的数组。

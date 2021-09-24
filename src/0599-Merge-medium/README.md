@@ -1,5 +1,7 @@
 # 0599 Merge
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/599-medium-merge/README.md)
 
 Merge two types into a new type. Keys of the second type overrides keys of the first type.

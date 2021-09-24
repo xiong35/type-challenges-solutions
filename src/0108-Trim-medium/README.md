@@ -1,5 +1,7 @@
 # 0108 Trim
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/108-medium-trim/README.md)
 
 实现`Trim<T>`类, 该类型接受一个`string`类星作为参数, 返回将这个类型两侧的空格去掉后的类型

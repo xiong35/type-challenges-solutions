@@ -1,5 +1,7 @@
 # 0119 Replace All
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/119-medium-replaceall/README.md)
 
 实现`ReplaceAll<S, From, To>`类, 该类接受三个字符串类型, 将`S`串中所有出现的`From`修改为`To`并返回

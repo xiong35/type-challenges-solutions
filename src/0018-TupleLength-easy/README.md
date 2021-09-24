@@ -1,5 +1,7 @@
 # 18 Tuple Length
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/18-easy-tuple-length/README.zh-CN.md)
 
 对于给定的元组，您需要创建一个通用的`Length`，选择元组的长度

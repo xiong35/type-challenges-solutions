@@ -1,5 +1,7 @@
 # 0116 Replace
 
+> 关键词: TypeScript, TypeChallenge
+
 ## [题目](https://github.com/type-challenges/type-challenges/blob/master/questions/116-medium-replace/README.md)
 
 实现`Replace<S, From, To>`类, 该类接受三个字符串类型, 将`S`串中的`From`修改为`To`并返回
