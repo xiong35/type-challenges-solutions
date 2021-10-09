@@ -35,8 +35,8 @@ type MyPick<T, Ks extends keyof T> = {
 
 ## 分析
 
-从`T`中选择属性`K`, 那么`K`一定要是`K`的键.  
-所以需要对泛型参数进行约束, 即限制`Ks extends keyof T`, `Ks`(Keys) 一定要是 `T` 的 key 的子集.
+从`T`中选择属性`K`, 那么`K`一定要是`T`的键.  
+所以需要对泛型参数进行约束, 即限制`Ks extends keyof T` => `Ks`(Keys) 一定要是 `T` 的 key 的子集.
 
 之后, 我们返回一个类型, 这个类型的 Key 来自于`K`, `K`是怎么来的呢,  
 我们遍历给定的 Keys(`[K in Ks]`), 将得到的 Ks 这个 union 类型的每一项记作 `K`.  
